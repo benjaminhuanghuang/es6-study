@@ -65,3 +65,7 @@
     export class QuoteService{
 
     }
+
+## Load ES6 modules:
+     <script src="node_modules/systemjs/dist/system.src.js"></script>
+     <script src="systemjs.config.js"></script>
